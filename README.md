@@ -1,4 +1,4 @@
-# Customer-Survey-Analysis
+# Recreation Centre Customer-Survey-Analysis
 ## Business Problem
 The recreation center conducts customer surveys on an annual basis. The goal is to find out how customers rate our services and seek space for improvement. In the 2022 report, various questions were asked, and raw data were gathered. As an operations coordinator, I’m responsible for generating a report for the manager to make operational decisions based on the data findings.
 

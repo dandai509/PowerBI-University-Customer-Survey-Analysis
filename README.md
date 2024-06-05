@@ -18,8 +18,9 @@ Raw data was collected from Oracle service cloud and exported in Excel format. F
 I then Selected UoA ID, selected Unpivoted the other columns in Facility Feedbacks table, which gives feedbacks and rating score. I then Mergeed Facility Feedbacks table and Rating table by left joining two tables by rating score column. I then expaned the Rating Column by chosing Rating, I now have an extra column which I renamed as Rating and has ratings.
 
 ![Picture3](https://github.com/dandai509/Customer-Survey-Analysis/assets/106848444/392f7033-c692-4d76-a4df-b378d4dfbeff)
+![Picture4](https://github.com/dandai509/Customer-Survey-Analysis/assets/106848444/8e6eb314-795c-4a87-ae32-e5c713f3b22d)
 
-![Picture4](https://github.com/dandai509/Customer-Survey-Analysis/assets/106848444/2116287d-efb5-4ec8-95c2-db49faf73e61)
+
 
 Lastly, I added an conditional column named it Overall Satisfaction. Any scores that is greater or equal to 5 will be considered Satisfied. Less then and equal to 3 is Unsatisfied. Else will be Neutral.
 Data transformation is now completed and I move on to Data modeling.

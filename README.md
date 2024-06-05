@@ -24,7 +24,8 @@ I then Selected UoA ID, selected Unpivoted the other columns in Facility Feedbac
 
 Lastly, I added an conditional column named it Overall Satisfaction. Any scores that is greater or equal to 5 will be considered Satisfied. Less then and equal to 3 is Unsatisfied. Else will be Neutral.
 Data transformation is now completed and I move on to Data modeling.
-![Picture5](https://github.com/dandai509/Customer-Survey-Analysis/assets/106848444/1e48215b-5b80-4021-abe3-d42f7ccdb283)
+![Picture5](https://github.com/dandai509/Customer-Survey-Analysis/assets/106848444/9617138f-3e8b-4162-b9b4-5fcf5944411c)
+
 
 ## Data Modeling
 

@@ -33,25 +33,21 @@ In Model view, the relationships between tables were automatic created. Since I 
 
 ![Picture6](https://github.com/dandai509/Customer-Survey-Analysis/assets/106848444/6a2a9aa2-9ba8-458a-bcdf-eb1c909e90ef)
 
-![1](https://github.com/dandai509/Customer-Survey-Analysis/assets/106848444/de9154b2-10fd-481b-b935-63e661f7415f)
 
 ## Data Analysis
+In total 287 respondents from the online survey. 92% of them are currently UoA Recreation Centre members. If members rate 5 or above, we consider that they are satisfied. 3 and 4 being neutral, anything 2 or below is considered unsatisfied. 
 
-![11](https://github.com/dandai509/Customer-Survey-Analysis/assets/106848444/77e65e1d-a4c6-400d-916b-6f1d887b8e9d)
+Overall, 60% of the members are satisfied, 24% are neutral, and 16% are unsatisfied. Members are most satisfied with our facility's cleanness, with an average score of 5.85, and only 9 respondents said they were not satisfied. 
 
-85% of the survey respondents have completed the full survey. The rest of the 15% has only partially completed.
+In Group Class feedback, members are most satisfied with the quality of the instructors, with an average score rating of 5.63.
 
-![22](https://github.com/dandai509/Customer-Survey-Analysis/assets/106848444/3873b03d-8761-45c2-bf78-506b66f183d0)
-
-Overall, 97% of respondents said they were satisfied with the service that the recreation provides. 5% are netural and 17% that is not satisfied with the service
-
-![33](https://github.com/dandai509/Customer-Survey-Analysis/assets/106848444/5c94ae69-9c7f-4d9c-b4ba-3e735b99bdab)
+![Dashboard](https://github.com/user-attachments/assets/42af060a-3b75-4335-a597-2550c0880cc0)
 
 Members are very happy about our staff presentation and professionalism, fitness and reception staff are very helpful in terms of helping them on the gym floor. On the other hand, members are unhappy about how they make friends in the gym. Almost half of the respondents said the gym did not connect them with new friends or community. Further, members feedback we need more communication both via social media and email.
 
-![44](https://github.com/dandai509/Customer-Survey-Analysis/assets/106848444/2b5559b3-9aa4-4fd4-8b07-96b3ff7f5502)
+![Feedback Rating Score](https://github.com/user-attachments/assets/7265f4a6-ec09-404c-ba9f-514dac6eb8d7)
 
-The Clean and Hygieness achieved one of the best satisfaction levels, only 9 respondents said they were not satisfied. 
+![DrillThrough](https://github.com/user-attachments/assets/5af21d4a-c1a7-4f73-a09e-a2ef0ab5c268)
 
 ## Summary
 

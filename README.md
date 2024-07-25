@@ -4,7 +4,6 @@ The University of Auckland Recreation Center conducts customer surveys on an ann
 
 ![00](https://github.com/dandai509/Customer-Survey-Analysis/assets/106848444/93767468-b386-485a-8e55-276dc38bfd9d)
 
-
 ## Data Clean and Transformation
 
 Initial data has 349 responses, and participants have been asked to rate our service from 0-7, 0 being extremely unsatisfied and 7 being extremely satisfied. 
@@ -14,7 +13,6 @@ Raw data was collected from Oracle service cloud and exported in Excel format. F
 ![Picture1](https://github.com/dandai509/Customer-Survey-Analysis/assets/106848444/b03cd758-755a-413a-a53e-9556a958ee83)
 ![Picture2](https://github.com/dandai509/Customer-Survey-Analysis/assets/106848444/9e7a2a2a-af76-4cb2-b5e6-b264fe80a4d4)
 
-
 I then Selected UoA ID, selected Unpivoted the other columns in Facility Feedbacks table, which gives feedbacks and rating score. I then Mergeed Facility Feedbacks table and Rating table by left joining two tables by rating score column. I then expaned the Rating Column by chosing Rating, I now have an extra column which I renamed as Rating and has ratings.
 
 ![Picture3](https://github.com/dandai509/Customer-Survey-Analysis/assets/106848444/392f7033-c692-4d76-a4df-b378d4dfbeff)
@@ -23,6 +21,7 @@ I then Selected UoA ID, selected Unpivoted the other columns in Facility Feedbac
 
 Lastly, I added an conditional column named it Overall Satisfaction. Any scores that is greater or equal to 5 will be considered Satisfied. Less then and equal to 3 is Unsatisfied. Else will be Neutral.
 Data transformation is now completed and I move on to Data modeling.
+
 ![Picture5](https://github.com/dandai509/Customer-Survey-Analysis/assets/106848444/9617138f-3e8b-4162-b9b4-5fcf5944411c)
 
 ## Data Modeling
@@ -46,6 +45,7 @@ Members are very happy about our staff presentation and professionalism, fitness
 ![Feedbacks Rating Score](https://github.com/user-attachments/assets/e2044195-7c0e-4187-8d12-403551473753)
 
 Further more in drill through, members feeling towards connection them with new friends are mostly diversed. rating score 1-7 are quite evenly distributed with close 50 members for each score. on the other hand, Facility Cleanness and Staff Presentation right skewed meaning thenumber of members who giving the highest rating score are the most.
+
 ![DrillThrough](https://github.com/user-attachments/assets/5af21d4a-c1a7-4f73-a09e-a2ef0ab5c268)
 
 ## Summary

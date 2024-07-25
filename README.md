@@ -1,6 +1,6 @@
 # Recreation Centre Customer Survey Analysis
 ## Business Problem
-The recreation center conducts customer surveys on an annual basis. The goal is to find out how customers rate our services and seek space for improvement. In the 2022 report, various questions were asked, and raw data were gathered from UoA website. As an operations coordinator, I’m responsible for generating a report by using Power BI to the manager to make operational decisions based on the data findings.
+The University of Auckland Recreation Center conducts customer surveys on an annual basis. The goal is to find out how customers rate our services and seek space for improvement. In the 2022 report, various questions were asked, and raw data were gathered from UoA website. As an operations coordinator, I’m responsible for generating a report by using Power BI to the manager to make operational decisions based on the data findings.
 
 ![00](https://github.com/dandai509/Customer-Survey-Analysis/assets/106848444/93767468-b386-485a-8e55-276dc38bfd9d)
 
@@ -43,20 +43,22 @@ In Group Class feedback, members are most satisfied with the quality of the inst
 
 ![Dashboard](https://github.com/user-attachments/assets/42af060a-3b75-4335-a597-2550c0880cc0)
 
-Members are very happy about our staff presentation and professionalism, fitness and reception staff are very helpful in terms of helping them on the gym floor. On the other hand, members are unhappy about how they make friends in the gym. Almost half of the respondents said the gym did not connect them with new friends or community. Further, members feedback we need more communication both via social media and email.
+Members are very happy about our staff presentation and professionalism, fitness and reception staff are very helpful in terms of helping them on the gym floor. On the other hand, members are unhappy about how they make friends in the gym. Almost half of the respondents said the gym did not connect them with new friends or community. Further, members feedback showed that the rec centre need to send more communication both via social media and email.
 
 ![Feedback Rating Score](https://github.com/user-attachments/assets/7265f4a6-ec09-404c-ba9f-514dac6eb8d7)
 
+Further more in drill through, members feeling towards connection them with new friends are mostly diversed. rating score 1-7 are quite evenly distributed with close 50 members for each score. on the other hand, Facility Cleanness and Staff Presentation right skewed meaning thenumber of members who giving the highest rating score are the most.
 ![DrillThrough](https://github.com/user-attachments/assets/5af21d4a-c1a7-4f73-a09e-a2ef0ab5c268)
 
 ## Summary
 
-Overall satisfaction rate reached 77%, 85% of the students who paticipated in survey has completed it. Communication via emails or social media has the low satisfaction rate. Staff professionalism and presentation reach a very high level of satisfaction. In Total, out of 349 students, only 9 students are not satisfied with general cleaningness.
+To conclude, overall satisfaction rate is 60%, with 24% respndents unsatisfied. Overall Satisfaction Score is 4.8 out of 7. Connection with Friends for members has the lowest average satisfaction score of 3.94. Facility Cleanness has the highest average satisfaction score of 5.85.
 
 ## Recommendations 
 
-Customer service team to engage more members in social media, e.g posting news, group class photo, weekly challenges to increase the engagement of the students 											
+Customer service team to engage more members in social media, e.g posting news, group class photo, weekly challenges to increase the engagement of the students.
+
 Adding monthly newsletter for all members, including centre events, membership specials, members engagement photos etc																			
-Create fun social events to let members get to know each other, to create a sense of community e.g members night, bring friends to work out 	
+Create fun social events to let members get to know each other, to create a sense of community e.g members night, bring friends to work out etc.
 
 

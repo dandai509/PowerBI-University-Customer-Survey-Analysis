@@ -21,11 +21,9 @@ I then Selected UoA ID, selected Unpivoted the other columns in Facility Feedbac
 ![Picture4](https://github.com/dandai509/Customer-Survey-Analysis/assets/106848444/8e6eb314-795c-4a87-ae32-e5c713f3b22d)
 
 
-
 Lastly, I added an conditional column named it Overall Satisfaction. Any scores that is greater or equal to 5 will be considered Satisfied. Less then and equal to 3 is Unsatisfied. Else will be Neutral.
 Data transformation is now completed and I move on to Data modeling.
 ![Picture5](https://github.com/dandai509/Customer-Survey-Analysis/assets/106848444/9617138f-3e8b-4162-b9b4-5fcf5944411c)
-
 
 ## Data Modeling
 
@@ -45,7 +43,7 @@ In Group Class feedback, members are most satisfied with the quality of the inst
 
 Members are very happy about our staff presentation and professionalism, fitness and reception staff are very helpful in terms of helping them on the gym floor. On the other hand, members are unhappy about how they make friends in the gym. Almost half of the respondents said the gym did not connect them with new friends or community. Further, members feedback showed that the rec centre need to send more communication both via social media and email.
 
-![Feedback Rating Score](https://github.com/user-attachments/assets/7265f4a6-ec09-404c-ba9f-514dac6eb8d7)
+![Feedbacks Rating Score](https://github.com/user-attachments/assets/e2044195-7c0e-4187-8d12-403551473753)
 
 Further more in drill through, members feeling towards connection them with new friends are mostly diversed. rating score 1-7 are quite evenly distributed with close 50 members for each score. on the other hand, Facility Cleanness and Staff Presentation right skewed meaning thenumber of members who giving the highest rating score are the most.
 ![DrillThrough](https://github.com/user-attachments/assets/5af21d4a-c1a7-4f73-a09e-a2ef0ab5c268)

@@ -1,6 +1,6 @@
 # Recreation Centre Customer Survey Analysis
 ## Business Problem
-The University of Auckland Recreation Center conducts customer surveys on an annual basis. The goal is to find out how customers rate our services and seek space for improvement. In the 2022 report, various questions were asked, and raw data were gathered from UoA website. As an operations coordinator, I’m responsible for generating a report by using Power BI to the manager to make operational decisions based on the data findings.
+The University of Auckland Recreation Center conducts customer surveys on an annual basis. The goal is to find out how customers rate our services and seek space for improvement. In the survey report, various questions were asked, and raw data were gathered from UoA website. As an data analyst, I’m responsible for generating a report by using Power BI to the manager to make operational decisions based on the data findings.
 
 ![00](https://github.com/dandai509/Customer-Survey-Analysis/assets/106848444/93767468-b386-485a-8e55-276dc38bfd9d)
 

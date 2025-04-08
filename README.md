@@ -50,7 +50,7 @@ Further more in drill through, members feeling towards connection them with new 
 
 ## Summary
 
-To conclude, overall satisfaction rate is 60%, with 24% respndents unsatisfied. Overall Satisfaction Score is 4.8 out of 7. Connection with Friends for members has the lowest average satisfaction score of 3.94. Facility Cleanness has the highest average satisfaction score of 5.85.
+To conclude, overall satisfaction rate is 60%, with 24% respondents unsatisfied. Overall Satisfaction Score is 4.8 out of 7. Connection with Friends for members has the lowest average satisfaction score of 3.94. Facility Cleanness has the highest average satisfaction score of 5.85.
 
 ## Recommendations 
 
